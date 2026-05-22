@@ -1,0 +1,14 @@
+streamlit==1.45.1
+selenium==4.33.0
+beautifulsoup4==4.13.4
+rapidfuzz==3.13.0
+pandas==2.2.3
+numpy==2.2.6
+plotly==6.1.2
+folium==0.19.5
+streamlit-folium==0.25.0
+geopy==2.4.1
+openpyxl==3.1.5
+lxml==5.4.0
+webdriver-manager==4.0.2
+fake-useragent==2.3.0
