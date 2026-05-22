@@ -1,4 +1,4 @@
-# PropLens India V2
+# PropLens India 
 ### Multi-City Property Intelligence Dashboard
 
 > An institutional-grade real estate analysis platform covering 3 cities, 15 micro-markets, and 4 data sources — with a luxury dark UI inspired by high-end property brands.
