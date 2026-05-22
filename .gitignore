@@ -48,6 +48,7 @@ Thumbs.db
 # Ignore generated CSV datasets
 data/raw/*.csv
 data/processed/*.csv
+!data/processed/combined_listings.csv
 
 # Retain directory structure via gitkeep files
 !data/raw/.gitkeep
