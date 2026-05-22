@@ -1,13 +1,13 @@
 # PropLens India 
 ### Multi-City Property Intelligence Dashboard
 
-> An institutional-grade real estate analysis platform covering 3 cities, 15 micro-markets, and 4 data sources — with a luxury dark UI inspired by high-end property brands.
+> An institutional-grade real estate analysis platform covering 3 cities, 15 micro-markets, and 4 data sources.
 
 ---
 
 ## Overview
 
-PropLens India V2 expands on the original Mumbai-only v1 (958 MagicBricks listings) to deliver a comprehensive multi-city dashboard with:
+PropLens India expands on the original Mumbai-only v1 (958 MagicBricks listings) to deliver a comprehensive multi-city dashboard with:
 
 - **3 cities** — Mumbai, Bengaluru, Pune
 - **15 micro-markets** across the three cities
